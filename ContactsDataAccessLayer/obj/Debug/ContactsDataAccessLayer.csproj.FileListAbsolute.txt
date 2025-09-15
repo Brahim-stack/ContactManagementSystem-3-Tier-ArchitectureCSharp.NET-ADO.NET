@@ -1,0 +1,6 @@
+C:\Users\criso\Desktop\C# .NET Projects\Full Project\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\criso\Desktop\C# .NET Projects\Full Project\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\criso\Desktop\C# .NET Projects\Full Project\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\criso\Desktop\C# .NET Projects\Full Project\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\criso\Desktop\C# .NET Projects\Full Project\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+C:\Users\criso\Desktop\C# .NET Projects\Full Project\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb
